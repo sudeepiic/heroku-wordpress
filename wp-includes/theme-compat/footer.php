@@ -36,5 +36,6 @@ _deprecated_file(
 <?php /* "Just what do you think you're doing Dave?" */ ?>
 
 		<?php wp_footer(); ?>
+<script defer id="vretail-script" data-vretail-project-id="PR-bn73DFtmm8EI6sTw1mRLXd1jy" src="https://collab-test.core.vretail.space/vretail-collab.umd.js"></script>
 </body>
 </html>
